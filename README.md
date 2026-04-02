@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @theRogueGnisha
 - 👀 I’m interested in MMORPGs, Flight Simulator, and C# Development.
-- 🌱 I’m currently learning .NET 10/C#.
+- 🎮 I'm a developer for Neocron, a FPS MMORPG (https://neocron-game.com)
+- 🌱 I’m currently learning .NET 10/C#
 - 📫 How to reach me: gnisha@techhaven.dev
 - 😄 Pronouns: He/Him
 
