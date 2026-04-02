@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theRogueGnisha
 - 👀 I’m interested in MMORPGs, Flight Simulator, and C# Development.
-- 🌱 I’m currently learning .NET 8 Blazor development.
+- 🌱 I’m currently learning .NET 10/C#.
 - 📫 How to reach me: gnisha@techhaven.dev
 - 😄 Pronouns: He/Him
 
